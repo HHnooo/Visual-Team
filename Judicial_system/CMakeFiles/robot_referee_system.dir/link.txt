@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/robot_referee_system.dir/main.cpp.o CMakeFiles/robot_referee_system.dir/robot.cpp.o CMakeFiles/robot_referee_system.dir/robot_manager.cpp.o -o robot_referee_system 

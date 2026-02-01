@@ -1,0 +1,3 @@
+/home/ros2/vscode/Judicial_system/CMakeFiles/robot_referee_system.dir
+/home/ros2/vscode/Judicial_system/CMakeFiles/edit_cache.dir
+/home/ros2/vscode/Judicial_system/CMakeFiles/rebuild_cache.dir
