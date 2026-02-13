@@ -1,0 +1,2 @@
+Invoking command in '/home/ros2/vscode/homework1_ws/src/CppPkg/build/CppPkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/vscode/homework1_ws/src/CppPkg -DCMAKE_INSTALL_PREFIX=/home/ros2/vscode/homework1_ws/src/CppPkg/install/CppPkg
+Invoked command in '/home/ros2/vscode/homework1_ws/src/CppPkg/build/CppPkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/vscode/homework1_ws/src/CppPkg -DCMAKE_INSTALL_PREFIX=/home/ros2/vscode/homework1_ws/src/CppPkg/install/CppPkg

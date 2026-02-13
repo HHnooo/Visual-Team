@@ -1,0 +1,31 @@
+[0.023s] Invoking command in '/home/ros2/vscode/homework1_ws/src/CppPkg/build/CppPkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/vscode/homework1_ws/src/CppPkg -DCMAKE_INSTALL_PREFIX=/home/ros2/vscode/homework1_ws/src/CppPkg/install/CppPkg
+[0.063s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.475s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[0.542s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.550s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.568s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.600s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.629s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.716s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.719s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.967s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.138s] [31mCMake Error at CMakeLists.txt:12 (find_package):
+[1.138s]   By not providing "Findrm_server.cmake" in CMAKE_MODULE_PATH this project
+[1.138s]   has asked CMake to find a package configuration file provided by
+[1.138s]   "rm_server", but CMake did not find one.
+[1.138s] 
+[1.139s]   Could not find a package configuration file provided by "rm_server" with
+[1.139s]   any of the following names:
+[1.140s] 
+[1.140s]     rm_serverConfig.cmake
+[1.140s]     rm_server-config.cmake
+[1.140s] 
+[1.140s]   Add the installation prefix of "rm_server" to CMAKE_PREFIX_PATH or set
+[1.140s]   "rm_server_DIR" to a directory containing one of the above files.  If
+[1.141s]   "rm_server" provides a separate development package or SDK, be sure it has
+[1.141s]   been installed.
+[1.141s] 
+[1.141s] [0m
+[1.141s] -- Configuring incomplete, errors occurred!
+[1.141s] See also "/home/ros2/vscode/homework1_ws/src/CppPkg/build/CppPkg/CMakeFiles/CMakeOutput.log".
+[1.171s] Invoked command in '/home/ros2/vscode/homework1_ws/src/CppPkg/build/CppPkg' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ros2/vscode/homework1_ws/src/CppPkg -DCMAKE_INSTALL_PREFIX=/home/ros2/vscode/homework1_ws/src/CppPkg/install/CppPkg
