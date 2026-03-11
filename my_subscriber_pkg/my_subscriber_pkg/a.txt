@@ -1,0 +1,3 @@
+colcon build --packages-select my_subscriber_pkg
+source install/setup.bash
+ros2 run my_subscriber_pkg subscriber_node --ros-args -p serial_port:=/dev/pts/X

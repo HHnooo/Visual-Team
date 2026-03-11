@@ -1,0 +1,3 @@
+main_node:
+  ros__parameters:
+    difficulty: "中杯"
